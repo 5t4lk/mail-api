@@ -23,7 +23,7 @@
 - - - Click Accept.
 - - - Copy the code from the browser, paste it into the command-line prompt, and press Enter.
 - Authorization information is stored in the file system as "token.json", so the next time you run the sample code, you aren't prompted for authorization.
-- You have successfully used my service that makes requests to the Gmail API.
+- You have successfully used my service that makes requests to the Gmail API. Now you should set your email on the 14th line of code "var from = "{SET HERE}". Well done.
 
 
 

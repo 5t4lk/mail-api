@@ -11,7 +11,7 @@ import (
 	"webapp/internal/user"
 )
 
-var from = "5t4lk.dev@gmail.com"
+var from = "REPLACE IT!"
 
 func main() {
 	b, err := ioutil.ReadFile("credentials.json")
